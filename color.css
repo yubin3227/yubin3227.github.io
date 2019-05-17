@@ -1,0 +1,9 @@
+h1 { color: rebeccapurple; }
+*{
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Delius', cursive;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-family: 'Calligraffitti', cursive;
+}
+*{text-align: center;}
